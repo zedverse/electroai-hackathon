@@ -4,6 +4,9 @@
 
 The **ElectroAI Hackathon** (April 6 - 10, 2026) is a technically serious student event focused on using **AI Agents** to solve a persistent friction in engineering practice: the "translation bottleneck."
 
+**[Register Now](https://forms.gle/MaSj5SV3j6uy6H8x7)**
+
+
 ## The Problem Statement
 Engineering design is visual before it is digital. Schematics are sketched on whiteboards, scanned from legacy documentation, or shared as screenshots. While readable by engineers, these artifacts are not directly usable by the tools that matter—simulators, layout editors, and design environments like KiCad, LTspice, or Proteus.
 
@@ -34,6 +37,7 @@ Gather at a venue near CSG for the official coding "allnighter." We’ll provide
 ### Support & Baseline
 - **Baseline Solution:** Every team will receive a functional baseline solution to jumpstart their project.
 - **Expert Mentoring:** Access to mentors specialized in AI agentic tools and electrical engineering.
+- **Community:** Join our official **Discord** for real-time support and updates: https://discord.gg/R3GpYZBXZ
 
 ### Final Presentation (Fri April 10)
 Deliver your final project and presentation to our panel of judges.

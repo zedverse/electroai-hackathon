@@ -23,6 +23,7 @@ Include these specific details in the README:
 3. **Support & Baseline:**
    - Every team will be provided with a **baseline solution** to expand upon.
    - **Expert Mentoring:** Guidance on the latest AI Agentic tools.
+   - **Community:** Join the official **Discord** for real-time support and updates: https://discord.gg/R3GpYZBXZ
 
 4. **Outputs & Judging:**
    - **Presentation:** Final project delivery on Friday, April 10.
