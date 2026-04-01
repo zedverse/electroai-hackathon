@@ -4,7 +4,7 @@
 
 The **ElectroAI Hackathon** (April 6 - 10, 2026) is a technically serious student event focused on using **AI Agents** to solve a persistent friction in engineering practice: the "translation bottleneck."
 
-**[Register Now](https://forms.gle/k8fZu6EPdFiyeagz6)**
+**[Register Now](https://forms.gle/Ajmfw7kZdqPx9pWHA)**
 
 
 ## The Problem Statement
