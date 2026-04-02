@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="comms/%235100_SST_Hackathon_update_-_digital_screen_AL1c.jpg" width="80%" alt="ElectroAI Hackathon Splash Image">
+</div>
+
 # ElectroAI Hackathon: Engineering Translation
 
 **Bridging the Gap Between Visual Schematics and Digital Simulation**

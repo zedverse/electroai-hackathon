@@ -7,6 +7,10 @@ You are a senior product and engineering partner. Your task is to generate a pro
 - **Problem Statement:** Engineering diagrams (electrical, hydraulic, pneumatic) are often locked in PDFs and images, making them difficult to query, analyze, or convert into simulation-ready formats.
 - **The Challenge:** Build AI-agent workflows that move beyond OCR to perform "Engineering Translation"—transforming visual artifacts into structured, actionable outputs (e.g., KiCad netlists, LTspice scaffolds, or Proteus-compatible files).
 
+## Header & Visuals
+- **Splash Image:** Include the image `comms/%235100_SST_Hackathon_update_-_digital_screen_AL1c.jpg` at the top, centered, with 80% width.
+- **Registration:** Include a prominent **[Register Now](https://forms.gle/MaSj5SV3j6uy6H8x7)** link at the top.
+
 ## Event Schedule & Details
 
 Include these specific details in the README:
@@ -56,7 +60,7 @@ Include this section in the README as a tool for students to use with their AI a
 
 - **Tone:** Technically literate, ambitious, but grounded. Avoid generic startup hype.
 - **Formatting:** Use clear headers, bullet points for schedule/details, and blockquotes for the Master Prompt.
-- **Hierarchy:** Start with the high-level mission, move to the technical challenge, then the schedule/logistics, and end with the Master Prompt and judging criteria.
+- **Hierarchy:** Start with the splash image and registration link, then the high-level mission, move to the technical challenge, then the schedule/logistics, and end with the Master Prompt and judging criteria.
 - **Visuals:** Use engineering-focused language (schematics, netlists, topology, agentic workflows).
 
 Produce the full content for a `README.md` file.
