@@ -7,7 +7,11 @@
 | 3 | Book rooms for workshops and allnighter | Daniel | High | Not Started | Venue near CSG for allnighter |
 | 4 | Print event posters | Daniel | Medium | Not Started | |
 | 5 | Put up posters across campus | Daniel | Medium | Not Started | |
-| 6 | Create baseline solution | Daniel | URGENT | Not Started | Crucial for workshop kickoff |
-| 7 | Create Google Forms registration | Daniel | High | Not Started | Based on clinical-ai-hackathon-signup-form.md |
+| 6 | Create baseline solution | Daniel | URGENT | In Progress | Skeleton directory created based on clinical-ai-hackathon |
+| 7 | Create Google Forms registration | Daniel | High | In Progress | Based on clinical-ai-hackathon-signup-form.md |
 | 8 | Define and source prizes | Daniel | Medium | Not Started | For top-performing teams |
 | 9 | Confirm industry partners / expert judges | Daniel | High | Not Started | Need Electrical Engineering experts |
+| 10 | Syed to do a workshop about API usage | Daniel | High | Not Started | Wednesday 8th, anytime except 2.30pm to 3.30pm |
+| 11 | Workshop on AI Agents with Gemini CLI | Daniel | High | Not Started | Wednesday 8th, 09:00-12:00 and 15:00-17:30 |
+| 12 | Book rooms | Daniel | High | Not Started | |
+| 13 | Create Gemini CLI, Codex, and Claude Code install page | Daniel | High | Not Started | Installation guide page for hackathon participants |
