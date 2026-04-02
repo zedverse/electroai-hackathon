@@ -27,6 +27,16 @@ This is more than OCR. It requires **Engineering Translation**:
 
 ---
 
+## Success Criteria
+
+Longitudinal patient data presented in Excel reflects patient history contained in Word document.
+
+## Judge Panel
+
+- **[Dr Anita Wale](https://www.stgeorges.nhs.uk/people/dr-anita-wale/)**: Consultant Radiologist and Clinical Academic at St George’s University Hospitals NHS Foundation Trust.
+- **[Dr Alex Nicholls](https://uk.linkedin.com/in/alex-nicholls-57301a38)**: Ministry of Defence.
+- **[Hitesh Patel](https://uk.linkedin.com/in/hitesh-patel-68ab0223a)**: Superintendent Radiographer and Radiology IT Systems (RITS) Manager at St George’s University Hospitals NHS Foundation Trust.
+
 ## Event Schedule & Support
 
 ### Workshops (Tue April 7 – Thu April 9)
