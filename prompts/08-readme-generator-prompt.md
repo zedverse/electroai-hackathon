@@ -8,7 +8,7 @@ You are a senior product and engineering partner. Your task is to generate a pro
 - **The Challenge:** Build AI-agent workflows that move beyond OCR to perform "Engineering Translation"—transforming visual artifacts into structured, actionable outputs (e.g., KiCad netlists, LTspice scaffolds, or Proteus-compatible files).
 
 ## Header & Visuals
-- **Splash Image:** Include the image `comms/%235100_SST_Hackathon_update_-_digital_screen_AL1c.jpg` at the top, centered, with 80% width.
+- **Splash Image:** Include the image `comms/5100_SST_Hackathon_update_-_digital_screen_AL1c.jpg` at the top, centered, with 80% width.
 - **Registration:** Include a prominent **[Register Now](https://forms.gle/MaSj5SV3j6uy6H8x7)** link at the top.
 
 ## Event Schedule & Details

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="comms/%235100_SST_Hackathon_update_-_digital_screen_AL1c.jpg" width="80%" alt="ElectroAI Hackathon Splash Image">
+  <img src="comms/5100_SST_Hackathon_update_-_digital_screen_AL1c.jpg" width="80%" alt="ElectroAI Hackathon Splash Image">
 </div>
 
 # ElectroAI Hackathon: Engineering Translation
