@@ -17,3 +17,6 @@
 | 13 | Create Gemini CLI, Codex, and Claude Code install page | Daniel | High | Not Started | Installation guide page for hackathon participants |
 
 * get agent to add link to speakers
+* mark 4 as owned by Dave, status done
+* mark 5 as owned by Dave and Daniel, status done
+* mark 1, 2, 3, 7, 10, 11, 12 as done
