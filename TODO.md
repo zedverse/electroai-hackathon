@@ -15,3 +15,5 @@
 | 11 | Workshop on AI Agents with Gemini CLI | Daniel | High | Not Started | Wednesday 8th, 09:00-12:00 and 15:00-17:30 |
 | 12 | Book rooms | Daniel | High | Not Started | |
 | 13 | Create Gemini CLI, Codex, and Claude Code install page | Daniel | High | Not Started | Installation guide page for hackathon participants |
+
+* get agent to add link to speakers
