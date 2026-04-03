@@ -20,3 +20,5 @@
 * mark 4 as owned by Dave, status done
 * mark 5 as owned by Dave and Daniel, status done
 * mark 1, 2, 3, 7, 10, 11, 12 as done
+* Add splash screen slide for Dave, Sofiia, Syed, Daniel and Finals to repo (pdf 1 page)
+* Add Syed MC (ask first)
