@@ -40,6 +40,7 @@ Each team is required to produce a professional engineering article in IEEE form
 
 You can use the following article as an example of the expected structure and depth:
 - **[Example IEEE Article: Can AI See Structure in Schematics?](ElectroAIHackathonIEEETemplate/ElectroAIHackathonIEEETemplate.pdf)**
+- **[IEEE LaTeX Template Repository](https://github.com/dsikar/ElectroAIHackathonIEEETemplate)**
 
 ## Judge Panel
 
@@ -85,7 +86,7 @@ Join the overnight build session from **21:00 to 08:00** online or in person, wi
 
 ### Support & Baseline
 - **Baseline Solution:** Every team will receive a functional baseline solution to jumpstart their project.
-- **Baseline Solution 1:** [Image2Spice](baseline-solution-1) was provided by MSc Data Science student Andrew Nguyen who also participated in the Clinical AI Hackathon.
+- **Baseline Solution 1:** [Image2Spice](https://github.com/EndryuN/Image2Spice) (local clone: [baseline-solution-1](baseline-solution-1)) was provided by MSc Data Science student Andrew Nguyen who also participated in the Clinical AI Hackathon.
 - **Expert Mentoring:** Access to mentors specialized in AI agentic tools and electrical engineering.
 - **Community:** Join our official **Discord** for real-time support and updates: https://discord.gg/R3GpYZBXZ
 
