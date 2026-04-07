@@ -1,0 +1,37 @@
+ElectroAI Hackathon Registration — City St George's, University of London
+
+WHEN: April 6–10, 2026
+WHERE: City St George's, University of London
+WHAT: Build AI Agents. Solve Real Engineering Problems. Produce IEEE-Standard Output.
+
+Join the ElectroAI Hackathon and tackle a genuine challenge at the intersection of Electrical Engineering and Artificial Intelligence. Work alongside expert Electronic Engineers to push the boundaries of what AI can do in the physical world.
+
+The Challenge:
+Engineering design is visual before it is digital. Schematics are sketched on whiteboards, scanned from legacy docs, or shared as screenshots—but these artifacts aren't directly usable by simulators or layout editors.
+
+Your mission: Push the limits of AI. You will build AI-agent workflows to verify how well the latest vision-language models can interpret engineering diagrams (electrical, hydraulic, pneumatic) and transform them into structured, simulation-ready output files (KiCad, LTspice, Proteus) ready for analysis and debugging.
+
+Why Join?
+- Expert Mentorship: Work directly with expert Electrical Engineers from industry and academia.
+- Master Agentic AI: Gain hands-on experience with the freshest AI Agent tools and vision-language models.
+- Academic Impact: Every team produces a research paper to IEEE publication standard—a major addition to your academic and professional portfolio.
+- Serious Technical Skills: Develop expertise in expert prompting, agentic workflow design, and engineering communication.
+- Prizes & Networking: Compete for prizes and connect with senior engineers and fellow students.
+
+Event Schedule:
+- Focused Workshops (Tue–Thu): Just one hour per day per team member. Learn to build AI agents and interact with LLMs programmatically.
+- Baseline Support: Every team is provided with a baseline solution to jumpstart their project.
+- The Allnighter (Thu April 9): Join us for a coding allnighter (pizza + Monster provided) to fine-tune your project or start a bold new approach from scratch.
+- Judging & Presentation (Fri April 10): Entries are evaluated by a panel of expert Electrical Engineer IEEE judges to a serious technical standard.
+
+Eligibility:
+While the ElectroAI Hackathon was created with Electrical Engineering students in mind, all students are welcome to join. We are looking for participants who are eager to apply technical depth and domain expertise to solve real-world engineering challenges.
+
+---
+
+Ready to bridge the gap between visuals and simulation?
+
+Please visit the ElectroAI GitHub Repository (https://github.com/dsikar/electroai-hackathon) to familiarise yourself with the problem statement and the master prompt.
+
+Register Now: https://forms.gle/MaSj5SV3j6uy6H8x7
+

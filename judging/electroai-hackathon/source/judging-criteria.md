@@ -1,5 +1,16 @@
 # Judging Criteria
 
+## Submission Requirements
+
+Each team must provide the following before judging begins:
+
+1. **GitHub repository link** — can be a clone of the template repo. The presentation must be clearly named `<team name>.pdf` or `<team name>.ppt` and placed in the repo root.
+2. **IEEE article PDF** — a `.pdf` of the team's findings placed in the `ElectroAIHackathonIEEETemplate/` directory of their repo, clearly named `<team name>-ieee.pdf`.
+
+Submissions that do not meet these naming and location conventions will be noted by the organiser before scores are recorded.
+
+---
+
 ## Sheet
 
 ### ElectroAI Hackathon - Friday Judging Sheet

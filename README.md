@@ -34,6 +34,13 @@ This is more than OCR. It requires **Engineering Translation**:
 - **Documentation quality:** Each team should submit a clear IEEE-style paper that explains the problem, approach, technical decisions, results, and limitations in a professional engineering format.
 - **Practical delivery:** Projects should be demonstrated as credible working prototypes, not just conceptual ideas or slideware.
 
+
+## IEEE Standard Article with Findings
+Each team is required to produce a professional engineering article in IEEE format detailing their findings, methodology, and results. This is a critical output of the hackathon, ensuring that technical decisions and performance are documented with the same rigour as the prototype itself.
+
+You can use the following article as an example of the expected structure and depth:
+- **[Example IEEE Article: Can AI See Structure in Schematics?](ElectroAIHackathonIEEETemplate/ElectroAIHackathonIEEETemplate.pdf)**
+
 ## Judge Panel
 
 - **[Dr Dave Muir](https://uk.linkedin.com/in/dr-dave-d-muir-883b3b39)**: Lecturer Eng. Systems (AI-Automation, Electrical & STEM), Prog. Director Renewable Energy & Power Sys. Man. MSc., Dept of Engineering, School of Science & Technology, University Sustainability Operations Lead, Co-Chair Network for Racial Justice, City St George's University of London.
@@ -113,3 +120,4 @@ Use this "System Instruction" to ground your AI agent in the hackathon’s speci
 - **IEEE-Style Paper:** Each team should submit a professional paper documenting the problem, method, technical decisions, results, and limitations.
 - **Professional Judging:** Entries will be judged on engineering usefulness, technical accuracy, structured output quality, and clarity about assumptions or ambiguity.
 - **Transferable Skills:** Participants will build practical experience in agentic workflows, technical documentation, and engineering-focused AI development.
+
