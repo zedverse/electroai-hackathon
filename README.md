@@ -85,6 +85,7 @@ Join the overnight build session from **21:00 to 08:00** online or in person, wi
 
 ### Support & Baseline
 - **Baseline Solution:** Every team will receive a functional baseline solution to jumpstart their project.
+- **Baseline Solution 1:** [Image2Spice](baseline-solution-1) was provided by MSc Data Science student Andrew Nguyen who also participated in the Clinical AI Hackathon.
 - **Expert Mentoring:** Access to mentors specialized in AI agentic tools and electrical engineering.
 - **Community:** Join our official **Discord** for real-time support and updates: https://discord.gg/R3GpYZBXZ
 
