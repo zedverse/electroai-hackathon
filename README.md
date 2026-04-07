@@ -40,6 +40,10 @@ This is more than OCR. It requires **Engineering Translation**:
 - **Proteus**
 - **Many more**
 
+## Open source tools used in baseline solutions
+- **LTSpice**
+- **Falstad**
+  
 ## IEEE Standard Article with Findings
 Each team is required to produce a professional engineering article in IEEE format detailing their findings, methodology, and results. This is a critical output of the hackathon, ensuring that technical decisions and performance are documented with the same rigour as the prototype itself.
 
