@@ -34,6 +34,11 @@ This is more than OCR. It requires **Engineering Translation**:
 - **Documentation quality:** Each team should submit a clear IEEE-style paper that explains the problem, approach, technical decisions, results, and limitations in a professional engineering format.
 - **Practical delivery:** Projects should be demonstrated as credible working prototypes, not just conceptual ideas or slideware.
 
+## Tools (full licence) available to CSG students
+- **Siemens NX**
+- **Matlab/Simulink**
+- **Proteus**
+- **Many more**
 
 ## IEEE Standard Article with Findings
 Each team is required to produce a professional engineering article in IEEE format detailing their findings, methodology, and results. This is a critical output of the hackathon, ensuring that technical decisions and performance are documented with the same rigour as the prototype itself.
