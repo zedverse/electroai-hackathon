@@ -70,3 +70,14 @@ Tested Grok, Gemini, Claude, and ChatGPT on generating Falstad circuit simulator
 - Circuits using ICs not natively in Falstad (CD4017, LM386, TRIAC) are noted as functional approximations.
 
 *Signed: claude-sonnet-4-6*
+
+## 2026-04-07
+
+- Cloned `https://github.com/EndryuN/Image2Spice` into `baseline-solution-1`.
+- Updated the root `README.md` to include a note about `baseline-solution-1` and its contributor, Andrew Nguyen (MSc Data Science student).
+- Fixed image paths in `baseline-solution/baseline-solution.md` following the directory move.
+- Added `prompts/11-fix-baseline-solution-images-prompt.md`.
+- Added external GitHub links for both the Image2Spice repository and the IEEE LaTeX template repository to the root `README.md`.
+- Pushed all changes to the remote repository.
+
+*Signed: Gemini CLI*
