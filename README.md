@@ -61,7 +61,7 @@ You can use the following article as an example of the expected structure and de
 
 | Day | Date | Time | Event | Lead | Location | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tuesday | April 7, 2026 | 11:00-12:00 | [Intro session](docs/EEAI_IntroRev2.pptx) | Dave Muir | Microsoft Teams / AG06 | Event introduction and team selection |
+| Tuesday | April 7, 2026 | 11:00-12:00 | [Intro session pptx](docs/EEAI_IntroRev2.pptx) | Dave Muir | Microsoft Teams / AG06 | Event introduction and team selection |
 | Wednesday | April 8, 2026 | 10:00-12:00 | Setting up AI Agents | Daniel Sikar | Microsoft Teams / AG01 | Turn up whenever you can, Dave will also be present for support |
 | Wednesday | April 8, 2026 | 15:00-17:00 | Setting up AI Agents | Daniel Sikar | Microsoft Teams / AG06 | Turn up whenever you can, Dave will also be present for support |
 | Thursday | April 9, 2026 | 10:00-11:30 | Data Visualisation | Sofiia Myrvoda | Microsoft Teams / A111 | Turn up whenever you can, Dave will also be present for support |
