@@ -1,0 +1,69 @@
+* Full-Wave Bridge Rectifier
+* EEAI Hackathon Baseline Solution — Circuit 01
+*
+* Topology  : 4-diode bridge rectifier
+* Source    : Vs = 120 VRMS / 169.7 Vpeak @ 60 Hz (transformer secondary)
+* Load      : R = 1 kΩ
+* Output    : Full-wave rectified DC across R (Vout)
+*
+* Nodes:
+*   VAC_A  — AC input terminal A (transformer secondary +)
+*   VAC_B  — AC input terminal B (transformer secondary −)
+*   VOUT   — DC positive output  (+Vo)
+*   0      — DC ground / negative output (−Vo)
+
+*--------------------------------------------------------------
+* AC Source  (floating transformer secondary)
+*--------------------------------------------------------------
+V1 VAC_A VAC_B SIN(0 169.7 60)
+
+* Large bias resistor to establish a DC ground reference
+* (does not affect circuit behaviour at 60 Hz)
+R_bias VAC_B 0 1G
+
+*--------------------------------------------------------------
+* Bridge diodes  (1N4007, 1 kV / 1 A rectifier)
+*--------------------------------------------------------------
+* Upper pair — steer current to VOUT
+D1 VAC_A VOUT 1N4007
+D2 VAC_B VOUT 1N4007
+
+* Lower pair — return current to GND
+D3 0 VAC_A 1N4007
+D4 0 VAC_B 1N4007
+
+*--------------------------------------------------------------
+* Load resistor
+*--------------------------------------------------------------
+R1 VOUT 0 1k
+
+*--------------------------------------------------------------
+* Diode model — 1N4007 (standard rectifier)
+*--------------------------------------------------------------
+.model 1N4007 D(IS=4.352n N=1.906 RS=0.6458 IKF=0 XTI=3 EG=1.11
++              CJO=0 M=0.3333 VJ=0.75 FC=0.5
++              ISR=1.565u NR=2 BV=1000 IBV=100u TT=0)
+
+*--------------------------------------------------------------
+* Transient analysis — 5 full cycles (83.3 ms), 10 µs step
+*--------------------------------------------------------------
+.tran 10u 83.3ms 0 10u
+
+*--------------------------------------------------------------
+* Measurements
+*--------------------------------------------------------------
+* Average output voltage (theoretical peak*(2/π) ≈ 108 V)
+.meas TRAN Vavg AVG V(VOUT) FROM 16.7ms TO 83.3ms
+
+* Peak output voltage (expect ~168.7 V, i.e. Vpeak − 2×Vf)
+.meas TRAN Vpeak MAX V(VOUT) FROM 16.7ms TO 83.3ms
+
+* Ripple (peak-to-peak variation after first cycle)
+.meas TRAN Vripple PP V(VOUT) FROM 16.7ms TO 83.3ms
+
+*--------------------------------------------------------------
+* Save voltages for plotting
+*--------------------------------------------------------------
+.save V(VAC_A) V(VAC_B) V(VOUT)
+
+.end
